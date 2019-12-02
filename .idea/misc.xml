@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/taotao_cart_web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_content/taotao_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_item_web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_manger/taotao_manger_service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_manger_web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_order/taotao_order_service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_order_web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_search/taotao_search_service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_search_web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_sso/taotao_sso_service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao_sso_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_common/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_manger/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_manger_web/pom.xml" />
+        <option value="$PROJECT_DIR$/pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/fastdfs_client/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_portal_web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_content/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_search/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_search_web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_item_web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_sso/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_sso_web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_cart_web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_order/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao_order_web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+# Project exclude paths
+/fastdfs_client/target/
+/out/
+/pagehelper/target/
+/taotao_cart_web/target/
+/taotao_common/target/
+/taotao_content/taotao_content_interface/target/
+/taotao_content/taotao_content_service/target/
+/taotao_item_web/target/
+/taotao_manger/taotao_manger_dao/target/
+/taotao_manger/taotao_manger_interface/target/
+/taotao_manger/taotao_manger_pojo/target/
+/taotao_manger/taotao_manger_service/target/
+/taotao_manger_web/target/
+/taotao_order/taotao_order_interface/target/
+/taotao_order/taotao_order_service/target/
+/taotao_order_web/target/
+/taotao_portal_web/target/
+/taotao_search/taotao_search_interface/target/
+/taotao_search/taotao_search_service/target/
+/taotao_search_web/target/
+/taotao_sso/taotao_sso_interface/target/
+/taotao_sso/taotao_sso_service/target/
+/taotao_sso_web/target/
